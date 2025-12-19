@@ -10,8 +10,7 @@ A simple and clean sports store frontend project built with **HTML, CSS and Java
 - 💡 Clean and readable code
 
 ## 🚀 Live Demo
-👉 https://newdevartist
-.github.io/sports-store-frontend/
+👉https://newdevartist.github.io/sports-store-frontend/
 
 ## 🛠️ Technologies
 - HTML5
@@ -25,4 +24,5 @@ sports-store-frontend/
 ├── style.css
 
 ├── script.js
+
 
